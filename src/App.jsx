@@ -6,16 +6,18 @@ import "./App.css";
 
 const App = () => {
   return (
-    <main>
-      <div className="main">
-        <div className="gradient" />
-      </div>
-      <div className="app">
-        <Analytics />
-        <Hero />
-        <Demo />
-      </div>
-    </main>
+    <>
+      <main>
+        <div className="main">
+          <div className="gradient" />
+        </div>
+        <div className="app">
+          <Hero />
+          <Demo />
+        </div>
+      </main>
+      <Analytics />
+    </>
   );
 };
 
