@@ -2,6 +2,8 @@
 
 Simplify your reading with Sumz, an article summarizer that transforms lengthy articles into clear and concise summaries
 
+[View Demo](https://sumz-article-summarizer-emp.vercel.app/)
+
 ## Features
 
 - Summarize articles with a click of a button
