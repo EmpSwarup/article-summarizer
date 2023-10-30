@@ -1,8 +1,21 @@
-# React + Vite
+![Logo](https://raw.githubusercontent.com/EmpSwarup/article-summarizer/ec359133b2aa2203ae3becb9d6ccddfd46187d8d/src/assets/logo.svg)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Simplify your reading with Sumz, an article summarizer that transforms lengthy articles into clear and concise summaries
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Summarize articles with a click of a button
+- Save summarized articles history in local storage
+- Simple and Elegant design
+- Quick Response
+
+## Tech Used
+
+- ReactJS with Vite
+- Redux Toolkit
+- Tailwind CSS
+- RapidAPI and more ...
+
+## Screenshot
+
+![App Screenshot](https://github.com/EmpSwarup/article-summarizer/blob/main/src/assets/screenshot.png?raw=true)
