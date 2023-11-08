@@ -13,9 +13,7 @@ Simplify your reading with Sumz, an article summarizer that transforms lengthy a
 
 ## Tech Used
 
-- ReactJS with Vite
-- Redux Toolkit
-- Tailwind CSS
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 - RapidAPI and more ...
 
 ## Screenshot
